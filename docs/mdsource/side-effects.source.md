@@ -11,8 +11,6 @@
  * scrubbers reduces fragility
 
 
-
-
 ## representation of the evolution of an app is in source control
 
  * screens
@@ -21,7 +19,9 @@
  * sql changes
 
 
-## Better communication with product owners
+## Better communication 
+
+with product owners/designers etc
 
  * can show them rendered reports/screens
 
