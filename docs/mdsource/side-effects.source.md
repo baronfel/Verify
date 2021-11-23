@@ -34,8 +34,8 @@ with product owners/designers etc
 
 ## Simplify debugging
 
- * often over capture data 
- * 
+ * often over-capture data 
+ * often temorarily capture more data dusing debugging
 
 
 ## Better understanding of perf
