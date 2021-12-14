@@ -14,6 +14,9 @@ F# does not respect implicit operator conversion. `SettingsTask` uses implicit o
 
 snippet: FsTest
 
+You can also use a `task` computation expression builder, such as the ones included in [Ply](https://github.com/crowded/ply), [TaskBuilder.fs](https://github.com/rspeele/TaskBuilder.fs), or starting with F# 6.0 the native one in FSharp.Core, to await tasks:
+
+snippet: FsTestTask
 
 ## Full tests
 
